@@ -2,7 +2,7 @@
 Coding Assingment
 Has to have:
 
---Everything from the Coding Classes
---Use Datebase
---React
---Routes (recommened)
+- Everything from the Coding Classes
+- Use Datebase
+- React
+- Routes (recommened)
