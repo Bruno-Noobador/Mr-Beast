@@ -1,2 +1,8 @@
 # Mr-Beast
-Mobile Assingment
+Coding Assingment
+Has to have:
+
+--Everything from the Coding Classes
+--Use Datebase
+--React
+--Routes (recommened)
