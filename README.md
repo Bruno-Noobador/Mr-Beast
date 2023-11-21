@@ -21,8 +21,7 @@ Has to have:
   - Only the Admin can access
 
 # System
-  - Creates QR-Codes from the key of a location
-  - Saves the QR-Codes in PNG files on disk
+  - Links the QR-Codes on disk with the location
   - Opens a WEB-UI for users and admin
   - Returns the requests from the admins
   - Gets user's readings and saves it to the database
