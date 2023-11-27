@@ -18,14 +18,13 @@ import { open } from 'sqlite';
     //     name text
     // )`)
 
-    const results = await db.exec(`create table locations(
-        id integer primary key,
-        name text,
-        key text,
-        user_id integer,
-        arrivalTime datetime,
-        FOREIGN KEY (user_id) REFERENCES users(id)
-    )`)
-
-    console.log(results)
+    // const results = await db.exec(`create table locations(
+    //     id integer primary key,
+    //     name text,
+    //     key text,
+    //     user_id integer,
+    //     arrivalTime datetime,
+    //     FOREIGN KEY (user_id) REFERENCES users(id)
+    // )`)
+    // console.log(results)
 })()

@@ -17,13 +17,13 @@ const router = createBrowserRouter ([
                 //get
                 path:"/",
                 element: <Home/>
-            },
-            {
-                //create
-                path:"/checkpoint",
-                element: <Check/>
             }
         ]
+    },
+    {
+        //create
+        path:"/checkpoint",
+        element: <Check/>
     }
 ])
 
