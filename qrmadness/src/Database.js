@@ -18,6 +18,8 @@ import { open } from 'sqlite';
     //     name text
     // )`)
 
+    // const results = await db.run(`insert into locations(name, key, arrivalTime) values('Roger', 1, 'now')`)
+
     // const results = await db.exec(`create table locations(
     //     id integer primary key,
     //     name text,
