@@ -1,0 +1,21 @@
+.listGblack {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    width: 100%;
+    height: 1.5em;
+}
+.checkitems{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: row;
+    font-size: 8px;
+    margin: 3px;
+}
+ul.database {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    grid-column: 3;
+}
