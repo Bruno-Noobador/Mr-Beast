@@ -1,7 +1,7 @@
 import { useEffect } from "react"
 import { useSearchParams, useNavigate } from "react-router-dom"
-import sqlite3 from 'sqlite3';
-import { open } from 'sqlite';
+// import sqlite3 from 'sqlite3';
+// import { open } from 'sqlite';
 
 export function Check() {
     const [ queryParameters ] = useSearchParams()

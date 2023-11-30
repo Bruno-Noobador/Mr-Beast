@@ -1,5 +1,6 @@
 // import { useState, useEffect } from "react"
 import './main.css'
+// too many, no translate
 // import {  } from "react-router-dom"
 // import sqlite3 from 'sqlite3';
 // import { open } from 'sqlite';

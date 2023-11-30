@@ -1,3 +1,4 @@
+/* sure */
 .listGblack {
     color: white;
     background-color: black;
@@ -26,7 +27,7 @@ ul.database {
     grid-template-columns: 1fr 1fr 1fr;
     /* grid-column: 3; */
 }
-li.checkitem ul:child{
+li.checkitem ul:children{
     margin-bottom: 0.2em;
 }
 li.checkitem ul:last-child{
